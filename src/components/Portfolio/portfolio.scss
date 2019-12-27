@@ -1,0 +1,33 @@
+.portfolio-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  transition: all 0.3s;
+
+  &:hover {
+    box-shadow: 0px 0px 8px #999;
+  }
+
+  .portfolio-content {
+    width: 70%;
+    margin-left: 24px;
+    padding: 14px;
+
+    h4 {
+      margin: 0 0 14px;
+    }
+
+    span {
+      display: block;
+      margin-bottom: 14px;
+    }
+  }
+
+  .portfolio-thumbnail {
+    width: 30%;
+    padding: 14px;
+    img {
+      width: 100%;
+    }
+  }
+}
