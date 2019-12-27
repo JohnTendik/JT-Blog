@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 
 import './portfolio.scss';
 
@@ -18,7 +19,7 @@ function PortfolioItem(props) {
       <div className='portfolio-content'>
         <h4>{title}</h4>
         <span>{desc}</span>
-        <a href={link}>Read More</a>
+        <Link to={link}>Read More</Link>
       </div>
     </div>
   );

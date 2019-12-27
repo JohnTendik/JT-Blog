@@ -17,19 +17,19 @@ function Portfolio(props) {
       title: 'Lazy Go',
       desc: 'A simple yet very effective way to cheat in Pokemon Go. For the lazy.',
       img: 'https://johntendik.github.io/img/port3.png',
-      link: '#0',
+      link: '/pages/portfolio/lazygo',
     },
     {
       title: 'KWRC Website',
       desc: 'My very first officialy website, still runs to this day. Impressive.',
       img: 'https://johntendik.github.io/img/port1.png',
-      link: '#0',
+      link: '/pages/portfolio/kwrc',
     },
     {
       title: 'JTRT Responsive Tables',
       desc: 'An ambitious WordPress plugin idea that I only neglect at this point.',
       img: 'https://johntendik.github.io/img/port2.png',
-      link: '#0'
+      link: '/pages/portfolio/jtrt'
     }
   ];
 
