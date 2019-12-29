@@ -35,8 +35,8 @@ Also, the fact that anyone anywhere can create themes and plugins for the platfo
 
 ![](/media/surprised-pikachu.png)
 
-WordPress is a tool and for many businesses it is a brilliant solution. With the right theme and the right set of plugins, a small business website can function for years with no issues. There are thousands of successful WordPress websites. It will be very hard to argue they all suck. I'm simply trying to make the point that when it comes to WordPress, its usually the implementation that goes wrong. 
+WordPress is a tool and for many businesses it is a brilliant solution. With the right theme and the right set of plugins, a small business website can function for years with no issues. There are thousands of successful WordPress websites. It will be very hard to argue they all suck. I'm simply trying to make the point that when it comes to WordPress, its usually the implementation that goes wrong. If you install 60 mods on a car which are not built specifically for it, and the car no longer functions at 100%, would you blame the car?
 
-If you install 60 mods on a car which are not built specifically for it, and the car no longer functions at 100%, would you blame the car?
+WordPress generates value for a lot of businesses. If the platform is used right it can generate a lot more value for a lot more people.
 
 -JT
