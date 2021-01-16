@@ -30,6 +30,12 @@ function Portfolio(props) {
       desc: 'An ambitious WordPress plugin idea that I only neglect at this point.',
       img: 'https://johntendik.github.io/img/port2.png',
       link: '/pages/portfolio/jtrt'
+    },
+    {
+      title: 'PoGo Master Raider',
+      desc: 'A simple raid group finder app for Pokemon Go. Less destructive than my other Pokemon go related app.',
+      img: 'https://johntendik.github.io/img/port4.png',
+      link: '/pages/portfolio/masterRaider'
     }
   ];
 
