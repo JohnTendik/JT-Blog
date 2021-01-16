@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://johntendik.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/posts/hello-world-im-jt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/posts/wordpress-doesnt-suck</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/posts/wordpress-tips-for-new-devs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/tag/developers-hate-this</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/tag/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/tag/random</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/tag/tips</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/tag/unpopular-opinion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/tag/word-press</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/tag/wordpress-hacks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/tag/tricks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/category/opinion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/category/random</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/category/tips-tricks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/pages/portfolio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/pages/portfolio/jtrt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/pages/portfolio/kwrc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/pages/portfolio/lazygo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/pages/portfolio/masterRaider/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/pages/privacyPolicy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/pages/termsOfService/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
