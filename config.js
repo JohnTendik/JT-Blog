@@ -22,6 +22,10 @@ module.exports = {
     {
       label: 'Portfolio',
       path: '/pages/portfolio'
+    },
+    {
+      label: 'WordPress Tools',
+      path: '/pages/wptools'
     }
   ],
   author: {
