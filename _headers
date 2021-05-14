@@ -107,15 +107,6 @@
   Link: </styles-1217d44920cd12a53266.js>; rel=preload; as=script
   Link: </commons-01ece8eab0065954f1fd.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-a120989651b5af348c53.js>; rel=preload; as=script
-/pages/about/
-  Link: </webpack-runtime-9f839ad0bdd1a60e8d56.js>; rel=preload; as=script
-  Link: </styles-1217d44920cd12a53266.js>; rel=preload; as=script
-  Link: </commons-01ece8eab0065954f1fd.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-415e17f74abceb28756d.js>; rel=preload; as=script
-  Link: </app-07df5fb2df8db41aaa49.js>; rel=preload; as=script
-  Link: </styles-1217d44920cd12a53266.js>; rel=preload; as=script
-  Link: </commons-01ece8eab0065954f1fd.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-7169785c26844a784fbf.js>; rel=preload; as=script
 /posts/wordpress-doesnt-suck
   Link: </webpack-runtime-9f839ad0bdd1a60e8d56.js>; rel=preload; as=script
   Link: </styles-1217d44920cd12a53266.js>; rel=preload; as=script
@@ -125,6 +116,15 @@
   Link: </styles-1217d44920cd12a53266.js>; rel=preload; as=script
   Link: </commons-01ece8eab0065954f1fd.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-a120989651b5af348c53.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-9f839ad0bdd1a60e8d56.js>; rel=preload; as=script
+  Link: </styles-1217d44920cd12a53266.js>; rel=preload; as=script
+  Link: </commons-01ece8eab0065954f1fd.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-415e17f74abceb28756d.js>; rel=preload; as=script
+  Link: </app-07df5fb2df8db41aaa49.js>; rel=preload; as=script
+  Link: </styles-1217d44920cd12a53266.js>; rel=preload; as=script
+  Link: </commons-01ece8eab0065954f1fd.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-7169785c26844a784fbf.js>; rel=preload; as=script
 /posts/wordpress-tips-for-new-devs
   Link: </webpack-runtime-9f839ad0bdd1a60e8d56.js>; rel=preload; as=script
   Link: </styles-1217d44920cd12a53266.js>; rel=preload; as=script
