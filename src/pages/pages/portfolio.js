@@ -52,6 +52,16 @@ function Portfolio(props) {
             link={item.link}
           />
         ))}
+        <div className='portfolio-item'>
+          <div className='portfolio-thumbnail'>
+            <img src={`https://johntendik.github.io/img/port5.png`} />
+          </div>
+          <div className='portfolio-content'>
+            <h4>Round Robin Scheduler</h4>
+            <span>A simple round robing tourmanemt scheduler for a local community league.</span>
+            <a href='https://johntendik.github.io/schedulerProject' target='_blank'>View live project</a>
+          </div>
+        </div>
       </Page>
     </Layout>
   );
