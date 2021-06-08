@@ -3,8 +3,8 @@
 <url> <loc>https://johntendik.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://johntendik.com/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://johntendik.com/posts/hello-world-im-jt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://johntendik.com/posts/wordpress-doesnt-suck</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://johntendik.com/posts/wordpress-tips-for-new-devs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://johntendik.com/posts/wordpress-doesnt-suck</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://johntendik.com/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://johntendik.com/tag/developers-hate-this</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://johntendik.com/tag/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
